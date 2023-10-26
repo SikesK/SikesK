@@ -1,4 +1,4 @@
-### Oh, Hello 👋
+# Oh, Hello 👋
 
 My name is Kelsey Sikes. I’m a Master’s student in the Human-Aware Planning Lab (HAPI) at Colorado State University, working under Dr. Sarath Sreedharan. 
 
