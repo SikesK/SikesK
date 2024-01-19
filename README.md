@@ -1,6 +1,6 @@
 # Oh, Hello 👋
 
-My name is Kelsey Sikes. I’m a Ph.D. student in the Human-Aware Planning Lab (HAPI) at Colorado State University, working under Dr. Sarath Sreedharan. 
+My name is Kelsey Sikes. I’m a Ph.D. student in the Human-Aware Planning & Interaction Lab (HAPI) at Colorado State University, working under Dr. Sarath Sreedharan. 
 
 I’m really interested in the human mind and intelligence, especially as it relates to artificial intelligence, machine learning, and robotics. Currently, I am conducting research related to automated planning and value alignment using primarily Python and PDDL. 
 
