@@ -11,7 +11,7 @@ During my graduate studies, I’ve also contributed to research projects related
 * 🤖: Better aligning human-robot final goal states using environmnet design and the novel GSD metric 
 * 📋: Improving the SQL generation capabilities of LLM’s using an agentic approach
 
-Previously, I worked as a web developer at Anheuser-Busch, designing and developing websites.
+Previously, I worked as a web developer at Anheuser-Busch (designing and developing websites), and interned at IBM Research and the Naval Research Lab. 
 
 
 
