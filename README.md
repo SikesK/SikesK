@@ -8,7 +8,7 @@ During my graduate studies, I’ve also contributed to research projects related
 * :brain: Using fMRI data to enhance artificial neural network robustness 
 * :pencil2: Tracking gesture, gaze, joint attention, etc. to improve student collaborative learning 
 * 🐝: Designing a POMDP-based intelligent tutoring system to teach bee classification 
-* 🤖: Better aligning human-robot final goal states using environmnet design and the novel Goal State Divergence metric 
+* 🤖: Aligning human-robot final goal states using environmnet design and the novel Goal State Divergence metric 
 * 📋: Improving the SQL generation capabilities of LLM’s using an agentic approach
 
 Previously, I worked as a web developer at Anheuser-Busch, designing and developing websites.
